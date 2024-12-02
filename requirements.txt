@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+tree-sitter
+tree-sitter-languages
+pygithub
+GitPython
+langchain
+langchain-community
+openai
+tiktoken
+pinecone-client
+langchain_pinecone
+sentence-transformers
